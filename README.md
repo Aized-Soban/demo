@@ -1,4 +1,4 @@
 # demo
 
 some info
-some idea of the project
+some idea of the project!
